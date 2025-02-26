@@ -9,6 +9,7 @@ Explain what software engineering is and discuss its importance in the technolog
 Sofware engineering is the application of engineering principlesto the design , development, testing, deployment and maintenance of software which involves using algoriths, programming, data structures and various methodologies to create reliable , efficient and scalable software solutions.
 
 IMPORTANCE.
+
 Drives innovation in various fields like artificcial intelligence and cloud computing.
 Enhances efficiency, improves productivity and optimizez business operations.
 Ensures that applications can handle growing user demands and maintain perfomance under varying loads.
@@ -17,6 +18,8 @@ It plays a crucial role in powering digital services abd e-commerce.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
+
 THE BIRTH OF SOFTWARE ENGINEERING(1968)
 sofware enginneering was first introduced at the 1968 NATO software enineering confrence to adress the sofware crisis . the milestone led to establishment of systeamtic methodologies , structured programming and early soffyware development models like waterfall model.
 
@@ -29,7 +32,9 @@ the agile manifesto (2001) introduced principles like iterative development cust
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-requirement analysis - gathering and anaslyzing user needs to define project scoop and objectives.
+
+
+requirement analysis - gathering and analyzing user needs to define project scoop and objectives.
 design- creating architecture, system models and UI\UX desing based on requirements.
 implementation - writing and integrating code to build the software.
 testing - identifying and fixing bugs to ensure functionality and reliabiility.
@@ -38,14 +43,16 @@ maintenance - updating,fixing issues and improving the software over time.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-approach
+
+
+approach -
 waterfall follows a linear sequential process whare each phase must be completed before the next begins while agile is an iterative and flexible following for continous feedback and adjustments.
-flexibility
+flexibility -
 waterfall is rigid and best for well defined projects with stable requirements while agile adaptive making it ideal for projects with evolving requirements.
-delivery
+delivery -
 waterfall delivers a complete product at the end of the development cycle while agile delibers work in small increments providing frequent updates.
-testing
-waterfallm conducts testing after development is complete whilw agile incorporates testing continously throughout development.
+testing-
+waterfall conducts testing after development is complete whilw agile incorporates testing continously throughout development.
 
 
 waterfall example : a government project with strict regulations and fixed requirements such as tax filing system.
@@ -53,6 +60,8 @@ agile example : a mobile app startup where features evolve based on user feedbac
  media platforms
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
+
 software developer 
 writes, tests and maintains code to build software.
 collaborates with designers and analysts to implement features and fix bugs.
@@ -70,6 +79,8 @@ ensures the project meets requirements deadlines and budget constraints.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
+
 intergrated development environments(IDEs)
 provides a unified workspace with tools like code editors, debuggers and compilers.
 enhances productivity by offering features with a syntax highlighting, autocompletion and real time error checking.
@@ -82,6 +93,8 @@ example : git
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
+
 keeping up with rapid technological changes like new programming languages, frameworks and tools which  emerge frequently
 strategy : engage in continous learning through online courses tech blogs and community forum.
 
@@ -93,6 +106,8 @@ strategy: follow secure coding practises, conduct regular security audits and us
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
+
 unit testing 
 tests individual components or functions of the sotware in isolation
 its importance is that it ensures each module works correctly before integration reducing debugging time later.
@@ -111,6 +126,8 @@ importance: ensures the software meets end user needs before deployment.
 #Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
+
 prompt engineering is the process of designing and refining inputs to effectively interact with AI modules and achieve desired responses.
 
 importance:
@@ -119,6 +136,8 @@ improves user experience- users can get better and faster responses without exce
 reduces bias and misinterpretation- thoughtful prompt design minimizes misleading outputs by framing questions clearly.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+
 "tell me about technology"
 improved prompt- "explain how artificial intelligence is transforming healthcare, with examples of real world applications."
 
